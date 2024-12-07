@@ -73,6 +73,16 @@ h1{
 }
 
 
+#servicos{
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.albuns{
+    padding: 10px 0px;
+}
+
 
 
 /* // Extra small devices (portrait phones, less than 576px) */
