@@ -161,10 +161,21 @@ footer ul li{
 
 
 /* // Extra small devices (portrait phones, less than 576px) */
-@media (max-width: 575.98px) { 
+@media (max-width: 595.98px) { 
     .btn-custom{
         margin: 10px 15px;
         padding: 13px 15px;
+        font-size: 1em;
+    }
+    .rotacionar{
+        display: flex;
+        margin: auto;
+        /* width: 70%; */
+        
+    }
+    .rotacionar .rot img{
+        display: none;
+        transform: rotate(0deg);
     }
  }
 
