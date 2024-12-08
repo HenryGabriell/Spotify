@@ -147,6 +147,17 @@ footer .navbar-nav a:hover{
     color: #9bf0e1
 }
 
+footer ul{
+    list-style: none;
+}
+
+footer ul li{
+    float: right;
+    margin: 0 6px;
+
+}
+
+
 
 
 /* // Extra small devices (portrait phones, less than 576px) */
