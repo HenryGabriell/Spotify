@@ -1,5 +1,6 @@
 html, body, #home{
     height: 100%;
+    overflow-x: hidden;
 }
 
 #home{
@@ -87,6 +88,23 @@ h1{
     color: #7c25f8;
 }
 
+#recursos{
+    color: white;
+}
+
+#recursos h3{
+    color: #9bf0e1;
+}
+
+#recursos h2{
+    color: white;
+}
+ .caixa{
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+
+
 h2{
     font-size: 3em;
     font-weight: 700;
@@ -97,6 +115,14 @@ h3{
     font-size: 2em;
     font-weight: 700;
     letter-spacing: -0.04em;
+}
+
+
+.rotacionar{
+    transform: rotate(30deg);
+    -ms-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    padding-left: 80px;
 }
 
 
