@@ -5,7 +5,7 @@ Projeto página do Spotify.
 html css e Bootstrap. Responsiva 👍
 <br>
 <br>
-Da uma olhada: 
+Da uma olhada: https://henrygabriell.github.io/Spotify/
 <br>
 <hr>
 
